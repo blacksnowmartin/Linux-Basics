@@ -1,5 +1,4 @@
 # Another 30 Basic Linux Commands and Their Descriptions
-# #BSMARTIN
 61. **`passwd`**  
     Changes the password for a user account.
 
@@ -89,3 +88,5 @@
 
 90. **`bg`**  
     Resumes a suspended job in the background.
+    # #BSMARTIN
+
