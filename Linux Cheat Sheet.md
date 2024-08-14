@@ -89,6 +89,5 @@
 
 30. **`ssh`**  
     Connects to a remote machine securely over a network.
-# #BSMARTIN
-
+    
 
